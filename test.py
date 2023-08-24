@@ -9,6 +9,7 @@ message = "Hello World!"
 
 print(message)
 
+print("Hello again!")
 #breakpoints pause the code at that line and do not execute that line.
 #use debug console to test variables and difference scenarios
 
